@@ -1,2 +1,2 @@
 # Learning
-Learning go code and use git
+Learning to code and use git :)
